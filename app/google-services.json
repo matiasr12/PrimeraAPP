@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566155225518",
+    "project_id": "segundaapp-a388a",
+    "storage_bucket": "segundaapp-a388a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566155225518:android:106c2edaaeb2914659403f",
+        "android_client_info": {
+          "package_name": "com.example.primeraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566155225518-21g7hfmrnd24mnrkfcku59qhff4ot75d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzCcYemnqHfGsZ7ceSfssQdhbzDLh6GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566155225518-21g7hfmrnd24mnrkfcku59qhff4ot75d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
